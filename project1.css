@@ -1,0 +1,35 @@
+*{
+margin: 10px;
+font-family: Arial, Helvetica, sans-serif;
+box-sizing: border-box;
+text-align: justify;
+}
+h1 {
+    color: red
+}
+h2 {
+background-color: lightpink;
+max-width: 200px;
+}
+.likes{
+color: brown;
+}
+.dislikes{
+color: indigo;
+}
+#location{
+color: hotpink;
+}
+#demo{
+color: aqua;
+}
+div {
+    border: 2px solid rgb(229, 230, 176)
+}
+.content{
+    border: 2px dotted rosybrown;
+}
+#food{
+    color: green
+    ;
+}
